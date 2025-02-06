@@ -16,6 +16,6 @@ eggs/
 *~
 .vscode/
 .idea/
-venv/
+.venv/
 env/
 /dist
